@@ -40,7 +40,6 @@ This application is integrated with the Mate Academy API to manage todo data. Th
 - [React](https://react.dev/)
 - [React Router](https://reactrouter.com/)
 - [Sass (SCSS)](https://sass-lang.com/)
-- [Vite](https://vitejs.dev/)
 
 ## License
 
